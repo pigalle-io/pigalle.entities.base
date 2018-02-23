@@ -1,6 +1,6 @@
 {
   "name": "@pigalle/entities.base",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A base class for Pigalle entities.",
   "main": "lib/entity-base.js",
   "scripts": {
@@ -59,7 +59,7 @@
     "github-uri-https-parser": "^0.1.1-alpha1"
   },
   "dependencies": {
-    "@pigalle/core.base.class": "^0.3.1",
+    "@pigalle/core.base.class": "^0.5.3",
     "lodash": "^4.17.5"
   }
 }

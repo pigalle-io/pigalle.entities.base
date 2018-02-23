@@ -138,7 +138,9 @@ Please refer to project's style guidelines and guidelines for submitting patches
 
 ## <a name="credits"> Credits
 
+### Thanks to useful dependencies
 
+* [@pigalle/core.base.class](https://github.com/pigalle-io/pigalle.core.base.class) by [pigalle.io](https://github.com/pigalle-io)
 ## <a name="history"> History
 
 Please refer to [the changelog file](docs/CHANGELOG.md).
