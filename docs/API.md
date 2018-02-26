@@ -55,6 +55,6 @@ The type of this derived class of {PigalleBaseClass}.
 
 ***
 
-_Documentation generated on Fri, 23 Feb 2018 20:33:17 GMT_
+_Documentation generated on Mon, 26 Feb 2018 10:11:55 GMT_
 
 **Copyright &copy; 2018 [SAS 9 Février](https://9fevrier.com/)**
